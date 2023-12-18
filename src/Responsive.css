@@ -1,0 +1,168 @@
+@media only screen and (max-width: 1199px) {
+    .form_1 {
+  width:100%;
+    }
+    .cart_add {
+        margin-right: 17px;
+      }
+
+      .owl_prev{
+        margin-top: 0px;
+    }
+
+  }
+
+  @media only screen and (max-width: 991px) {
+
+    .top_1{
+        padding-bottom: 232px;
+    }
+
+    .cart_add{
+    margin-top: -64px;
+ margin-right: 44px;
+    }
+
+    .header_top{
+        margin-top:0px;
+    }
+
+ 
+
+     .sider_1{
+        margin-top:-10px;
+    }
+
+    .nav_mob{
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+
+    .owl_prev{
+        margin-top: 50px;
+    }
+    
+  }
+
+  @media only screen and (max-width:767px) {
+    .info_mail{
+        display:none;
+    }
+.owl_prev{
+    display:none;
+}
+
+
+.owl-carousel .prev-slide{
+    background: url(nav-icon.png) no-repeat scroll 0 0;
+    left: 0px;
+}
+.owl-carousel .next-slide{
+    background: url(nav-icon.png) no-repeat scroll -24px 0px;
+    right: 0px;
+}
+
+.card_img ul {
+    bottom: 30px;
+    opacity: 1;
+  }
+
+  .footer-social-icon{
+    margin-bottom: 24px;
+  }
+
+  .single-cta{
+    margin-bottom:15px;
+  }
+
+  .cart_responsive{
+    padding-right: 19px;
+    margin-top:20px;
+    padding-left: 19px;
+  }
+
+  .cart_responsive .card_img{
+    max-height: 170px;
+  }
+
+  .col-size{
+    padding-right: 0px !important;
+  padding-left: 0px !important;
+  }
+   
+  }
+
+  @media only screen and (max-width:575px) {
+    .top_1{
+        padding-bottom:184px;
+    }
+
+    .form_1{
+   display: none;
+    }
+
+    .cart_1 label {
+    display: none;
+      }
+
+      .cart_add {
+        margin-top: -59px;
+      }
+
+      .cart_1 {
+        margin-top: -48px;
+        margin-left: 34px;
+      }
+
+      .cart_btn svg{
+        width: 32px;
+      }
+
+      .cart_btn {
+        margin-left: 32px;
+        margin-top: -8px;
+      }
+      
+      .wishList svg{
+        width: 32px;
+      }
+
+      .quantity_1 {
+        position: absolute;
+        background: red;
+        border-radius: 50%;
+        width: 16px;
+        height: 16px;
+        padding: 0px;
+        color: #fff;
+        margin-top: -41px;
+        margin-left: 16px;
+        text-align: center;
+        font-size: 11px;
+      }
+
+      .div_form{
+        margin-top:-10px;
+        }
+        
+  }
+
+  @media only screen and (max-width:414px) {
+    .card_img ul li a{
+    width: 34px;
+    height: 34px;
+    line-height: 33px;
+    }
+
+.sideBar {
+    width:100%;
+}
+
+    .single-product:hover .card_img ul {
+        bottom: 17px;
+      }
+
+    .card_img ul {
+        bottom: 17px;
+      }
+  }
